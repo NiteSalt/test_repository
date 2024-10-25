@@ -1,3 +1,5 @@
+#include <iostream>
+
 void main() {
     // Change
     // Strange 2
@@ -5,4 +7,7 @@ void main() {
     // Quantum
     // Third change
     // Fourth change
+
+    // Change 2
+    std::cout << "Hello Goblin";
 }
